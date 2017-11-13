@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="306dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:text="TARGET"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginLeft="93dp"
+        android:id="@+id/textTab3"/>
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:text="COURSES"
+        android:background="@color/startblue"
+
+        android:id="@+id/courses"
+        android:layout_marginBottom="5dp"
+        android:layout_alignParentBottom="true"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+
+        android:layout_centerHorizontal="true"
+        android:text="HR WORDS"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/hr"
+        android:background="@color/startblue"
+        android:layout_alignBottom="@id/courses"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:text="EVENTS AND COMPETITIONS"
+        android:id="@+id/hack"
+        android:layout_marginBottom="5dp"
+        android:background="@color/startblue"
+        android:layout_alignBottom="@id/courses"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:text="INMAIL"
+        android:background="@color/startblue"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/qn"
+        />
+</LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">projectandroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="t1">E-LEARNING\n In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. </string>
+    <string name="t2">PYTHON FOR EVERYBODY\nThis course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.</string>
+    <string name="t3">MACHINE LEARNING WITH PYTHON \nStart with applied machine learning using the PyData libraries Scikit-learn, Pandas, and Matplotlib. Then go deeper with case studies and by implementing algorithms.</string>
+    <string name="hack1">Intern Hackathon 2017</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hrr"> \" Finding the right job begins with your connections. Get started on LinkedIn. #TheWayIn \n LinkedIn is the world\'s largest professional network on the Internet. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe. \" </string>
+    <string name="title_activity_details">Details</string>
+
+</resources>
